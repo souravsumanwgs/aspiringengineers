@@ -27,7 +27,7 @@ const upcomingTests = [
   },
   {
     id: 3,
-    name: 'WBJEE Mock Test Series',
+    name: 'dfasdfsdaf',
     date: '2024-04-20',
     time: '11:00 AM',
     duration: '2 hours',
